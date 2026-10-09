@@ -1,0 +1,6 @@
+STOCK PORTFOLIO TRACKER
+=======================
+AAPL | Quantity: 4 | Price: $180 | Total: $720
+TSLA | Quantity: 4 | Price: $250 | Total: $1000
+
+Total Investment: $1720
